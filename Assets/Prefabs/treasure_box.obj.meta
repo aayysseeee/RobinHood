@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 4a21288f49343dd4599710e92e14dc4b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Stones_and_buried_treasure:Chest_Open_Cap_treasure_box_treasure_box_group42
+    100002: //RootNode
+    100004: treasure_box_group42_Stones_and_buried_treasure:Bullion_treasure
+    100006: treasure_box_group42_treasure_Stones_and_buried_treasure:Arrow
+    100008: treasure_box_group42_treasure_Stones_and_buried_treasure:Crown
+    100010: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_1
+    100012: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_2
+    100014: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_3
+    100016: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_4
+    100018: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Health
+    100020: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Mana
+    100022: treasure_box_group42_treasure_Stones_and_buried_treasure:Emerald
+    100024: treasure_box_group42_treasure_Stones_and_buried_treasure:Key
+    100026: treasure_box_group42_treasure_Stones_and_buried_treasure:Ruby
+    100028: treasure_box_group42_treasure_Stones_and_buried_treasure:Sword
+    100030: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure:Chest_Open
+    100032: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface19
+    100034: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface20
+    100036: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface21
+    400000: Stones_and_buried_treasure:Chest_Open_Cap_treasure_box_treasure_box_group42
+    400002: //RootNode
+    400004: treasure_box_group42_Stones_and_buried_treasure:Bullion_treasure
+    400006: treasure_box_group42_treasure_Stones_and_buried_treasure:Arrow
+    400008: treasure_box_group42_treasure_Stones_and_buried_treasure:Crown
+    400010: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_1
+    400012: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_2
+    400014: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_3
+    400016: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_4
+    400018: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Health
+    400020: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Mana
+    400022: treasure_box_group42_treasure_Stones_and_buried_treasure:Emerald
+    400024: treasure_box_group42_treasure_Stones_and_buried_treasure:Key
+    400026: treasure_box_group42_treasure_Stones_and_buried_treasure:Ruby
+    400028: treasure_box_group42_treasure_Stones_and_buried_treasure:Sword
+    400030: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure:Chest_Open
+    400032: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface19
+    400034: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface20
+    400036: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface21
+    2100000: Stones_and_buried_treasure_Chest_Open_Cap_treasure_box_treasure_box_group42Mat
+    2100002: treasure_box_group42_Stones_and_buried_treasure_Bullion_treasureMat
+    2100004: treasure_box_group42_treasure_Stones_and_buried_treasure_ArrowMat
+    2100006: treasure_box_group42_treasure_Stones_and_buried_treasure_CrownMat
+    2100008: treasure_box_group42_treasure_Stones_and_buried_treasure_Crystal_1Mat
+    2100010: treasure_box_group42_treasure_Stones_and_buried_treasure_Crystal_2Mat
+    2100012: treasure_box_group42_treasure_Stones_and_buried_treasure_Crystal_3Mat
+    2100014: treasure_box_group42_treasure_Stones_and_buried_treasure_Crystal_4Mat
+    2100016: treasure_box_group42_treasure_Stones_and_buried_treasure_Elixir_Of_HealthMat
+    2100018: treasure_box_group42_treasure_Stones_and_buried_treasure_Elixir_Of_ManaMat
+    2100020: treasure_box_group42_treasure_Stones_and_buried_treasure_EmeraldMat
+    2100022: treasure_box_group42_treasure_Stones_and_buried_treasure_KeyMat
+    2100024: treasure_box_group42_treasure_Stones_and_buried_treasure_RubyMat
+    2100026: treasure_box_group42_treasure_Stones_and_buried_treasure_SwordMat
+    2100028: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure_Chest_OpenMat
+    2100030: treasure_box_treasure_box_group42_Stones_and_buried_treasure_Chest_Open_polySurface19Mat
+    2100032: treasure_box_treasure_box_group42_Stones_and_buried_treasure_Chest_Open_polySurface20Mat
+    2100034: treasure_box_treasure_box_group42_Stones_and_buried_treasure_Chest_Open_polySurface21Mat
+    2300000: Stones_and_buried_treasure:Chest_Open_Cap_treasure_box_treasure_box_group42
+    2300002: treasure_box_group42_Stones_and_buried_treasure:Bullion_treasure
+    2300004: treasure_box_group42_treasure_Stones_and_buried_treasure:Arrow
+    2300006: treasure_box_group42_treasure_Stones_and_buried_treasure:Crown
+    2300008: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_1
+    2300010: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_2
+    2300012: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_3
+    2300014: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_4
+    2300016: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Health
+    2300018: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Mana
+    2300020: treasure_box_group42_treasure_Stones_and_buried_treasure:Emerald
+    2300022: treasure_box_group42_treasure_Stones_and_buried_treasure:Key
+    2300024: treasure_box_group42_treasure_Stones_and_buried_treasure:Ruby
+    2300026: treasure_box_group42_treasure_Stones_and_buried_treasure:Sword
+    2300028: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure:Chest_Open
+    2300030: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface19
+    2300032: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface20
+    2300034: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface21
+    3300000: Stones_and_buried_treasure:Chest_Open_Cap_treasure_box_treasure_box_group42
+    3300002: treasure_box_group42_Stones_and_buried_treasure:Bullion_treasure
+    3300004: treasure_box_group42_treasure_Stones_and_buried_treasure:Arrow
+    3300006: treasure_box_group42_treasure_Stones_and_buried_treasure:Crown
+    3300008: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_1
+    3300010: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_2
+    3300012: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_3
+    3300014: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_4
+    3300016: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Health
+    3300018: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Mana
+    3300020: treasure_box_group42_treasure_Stones_and_buried_treasure:Emerald
+    3300022: treasure_box_group42_treasure_Stones_and_buried_treasure:Key
+    3300024: treasure_box_group42_treasure_Stones_and_buried_treasure:Ruby
+    3300026: treasure_box_group42_treasure_Stones_and_buried_treasure:Sword
+    3300028: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure:Chest_Open
+    3300030: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface19
+    3300032: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface20
+    3300034: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface21
+    4300000: Stones_and_buried_treasure:Chest_Open_Cap_treasure_box_treasure_box_group42
+    4300002: treasure_box_group42_Stones_and_buried_treasure:Bullion_treasure
+    4300004: treasure_box_group42_treasure_Stones_and_buried_treasure:Arrow
+    4300006: treasure_box_group42_treasure_Stones_and_buried_treasure:Crown
+    4300008: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_1
+    4300010: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_2
+    4300012: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_3
+    4300014: treasure_box_group42_treasure_Stones_and_buried_treasure:Crystal_4
+    4300016: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Health
+    4300018: treasure_box_group42_treasure_Stones_and_buried_treasure:Elixir_Of_Mana
+    4300020: treasure_box_group42_treasure_Stones_and_buried_treasure:Emerald
+    4300022: treasure_box_group42_treasure_Stones_and_buried_treasure:Key
+    4300024: treasure_box_group42_treasure_Stones_and_buried_treasure:Ruby
+    4300026: treasure_box_group42_treasure_Stones_and_buried_treasure:Sword
+    4300028: treasure_box_treasure_box_group42_polySurface18_Stones_and_buried_treasure:Chest_Open
+    4300030: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface19
+    4300032: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface20
+    4300034: treasure_box_treasure_box_group42_Stones_and_buried_treasure:Chest_Open_polySurface21
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

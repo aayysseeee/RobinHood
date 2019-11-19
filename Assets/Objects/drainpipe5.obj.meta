@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 9cca611a134c2ce42bbe87fa05e22616
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: drainpipe5_cube_pCube1
+    100004: drainpipe5_cube_pCube2
+    100006: drainpipe5_cube_pCube3
+    100008: drainpipe5_cube_pCube4
+    100010: drainpipe5_dispenser
+    100012: drainpipe5_end_pipe
+    100014: drainpipe5_funnel
+    100016: drainpipe5_pCube5_cube
+    100018: drainpipe5_pTorus1_torus
+    100020: drainpipe5_torus_pTorus2
+    100022: drainpipe5_torus_pTorus3
+    100024: drainpipe5_torus_pTorus4
+    100026: drainpipe5_torus_pTorus5
+    100028: pipe_drainpipe5
+    400000: //RootNode
+    400002: drainpipe5_cube_pCube1
+    400004: drainpipe5_cube_pCube2
+    400006: drainpipe5_cube_pCube3
+    400008: drainpipe5_cube_pCube4
+    400010: drainpipe5_dispenser
+    400012: drainpipe5_end_pipe
+    400014: drainpipe5_funnel
+    400016: drainpipe5_pCube5_cube
+    400018: drainpipe5_pTorus1_torus
+    400020: drainpipe5_torus_pTorus2
+    400022: drainpipe5_torus_pTorus3
+    400024: drainpipe5_torus_pTorus4
+    400026: drainpipe5_torus_pTorus5
+    400028: pipe_drainpipe5
+    2100000: drainpipe5_cube_pCube1Mat
+    2100002: drainpipe5_cube_pCube2Mat
+    2100004: drainpipe5_cube_pCube3Mat
+    2100006: drainpipe5_cube_pCube4Mat
+    2100008: drainpipe5_dispenserMat
+    2100010: drainpipe5_end_pipeMat
+    2100012: drainpipe5_funnelMat
+    2100014: drainpipe5_pCube5_cubeMat
+    2100016: drainpipe5_pTorus1_torusMat
+    2100018: drainpipe5_torus_pTorus2Mat
+    2100020: drainpipe5_torus_pTorus3Mat
+    2100022: drainpipe5_torus_pTorus4Mat
+    2100024: drainpipe5_torus_pTorus5Mat
+    2100026: pipe_drainpipe5Mat
+    2300000: drainpipe5_cube_pCube1
+    2300002: drainpipe5_cube_pCube2
+    2300004: drainpipe5_cube_pCube3
+    2300006: drainpipe5_cube_pCube4
+    2300008: drainpipe5_dispenser
+    2300010: drainpipe5_end_pipe
+    2300012: drainpipe5_funnel
+    2300014: drainpipe5_pCube5_cube
+    2300016: drainpipe5_pTorus1_torus
+    2300018: drainpipe5_torus_pTorus2
+    2300020: drainpipe5_torus_pTorus3
+    2300022: drainpipe5_torus_pTorus4
+    2300024: drainpipe5_torus_pTorus5
+    2300026: pipe_drainpipe5
+    3300000: drainpipe5_cube_pCube1
+    3300002: drainpipe5_cube_pCube2
+    3300004: drainpipe5_cube_pCube3
+    3300006: drainpipe5_cube_pCube4
+    3300008: drainpipe5_dispenser
+    3300010: drainpipe5_end_pipe
+    3300012: drainpipe5_funnel
+    3300014: drainpipe5_pCube5_cube
+    3300016: drainpipe5_pTorus1_torus
+    3300018: drainpipe5_torus_pTorus2
+    3300020: drainpipe5_torus_pTorus3
+    3300022: drainpipe5_torus_pTorus4
+    3300024: drainpipe5_torus_pTorus5
+    3300026: pipe_drainpipe5
+    4300000: drainpipe5_cube_pCube1
+    4300002: drainpipe5_cube_pCube2
+    4300004: drainpipe5_cube_pCube3
+    4300006: drainpipe5_cube_pCube4
+    4300008: drainpipe5_dispenser
+    4300010: drainpipe5_end_pipe
+    4300012: drainpipe5_funnel
+    4300014: drainpipe5_pCube5_cube
+    4300016: drainpipe5_pTorus1_torus
+    4300018: drainpipe5_torus_pTorus2
+    4300020: drainpipe5_torus_pTorus3
+    4300022: drainpipe5_torus_pTorus4
+    4300024: drainpipe5_torus_pTorus5
+    4300026: pipe_drainpipe5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+E:\Work\Game Development\Unity\Year 3 - Uni\RobinHoodGameJam\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Work\Game Development\Unity\Year 3 - Uni\RobinHoodGameJam\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
